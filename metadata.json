@@ -1,0 +1,6 @@
+{
+  "name": "Mapas Mentais para Estudos",
+  "description": "Um aplicativo profissional de mapas mentais para estudos, offline-first, de alta performance e com recursos avançados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
